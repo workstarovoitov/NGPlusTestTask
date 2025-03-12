@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 42460b7301afa23459b710a85ef7dcb8
+  m_SerializeEntries:
+  - m_GUID: add9e27f4a040c145a685263a02f311f
+    m_Address: Assets/Content/Inventory/Catnip Plushie.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Item
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5852e9e0947d7dd42b1b346651faffb7
+    m_Address: Assets/Content/Inventory/Chonky Treats.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Item
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9eff3af243b9ba748b8eb2e95235672e
+    m_Address: Assets/Content/Inventory/Fishy Feast.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Item
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2250cdc29d5cc164bb4755bc8c180244
+    m_Address: Assets/Content/Inventory/Meow Mix Supreme.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Item
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5be98b1c7bdea054fbabf20d995d95a7
+    m_Address: Assets/Content/Inventory/Milk Bottle.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Item
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c164970ddba2fa943880465dc3c67fad
+    m_Address: Assets/Content/Inventory/Mystery Can.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Item
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d76420bab6a4a4942a2e479f320ff323
+    m_Address: Assets/Content/Inventory/Yarn Ball.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Item
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: db10b82a920db86478f63a39974879a2, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f8d8d13f9b4b3624bb14d18af40903ad, type: 2}
+    - {fileID: 11400000, guid: 7a34e206de7444c49bc63f4cdfbec8c4, type: 2}
